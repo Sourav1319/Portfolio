@@ -26,7 +26,7 @@ const Intro = () => {
       <div className="intro">
         <div>
           <div className="intro-head">Hi, there! <span style={{color: "#fc6d26"}}>I'm</span></div>
-          <div className="intro-name">Ankit Raj</div>
+          <div className="intro-name">Sourav Singh</div>
           <div className="intro-doin">{doin[idx]}</div>
           <div className="intro-gh-follow"><GhFollowkBtn username={"sourav1319"} /></div>
         </div>
