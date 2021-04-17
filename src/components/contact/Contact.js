@@ -17,7 +17,7 @@ const Contact = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://facebook.com/ankiiitraj"
+          href="https://facebook.com/souravsingh13081999"
         >
           {" "}
           <SiFacebook className="contact-fb contact-icon" />{" "}
@@ -25,7 +25,7 @@ const Contact = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://linkedin.com/in/ankiiitraj"
+          href="https://linkedin.com/in/sourav1319singh"
         >
           {" "}
           <SiLinkedin className="contact-in contact-icon" />{" "}
@@ -33,20 +33,16 @@ const Contact = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/ankiiitraj"
+          href="https://github.com/sourav1319"
         >
           {" "}
           <SiGithub className="contact-gh contact-icon" />{" "}
-        </a>
-        <a target="_blank" rel="noreferrer" href="https://dev.to/ankiiitraj">
-          {" "}
-          <SiDevDotTo className="contact-dev contact-icon" />{" "}
         </a>
       </div>
       <div className="contact-mail">
         {" "}
         <SiGmail style={{ marginRight: "10px" }} />{" "}
-        <CopyMailTo email="ankitatiiitr@gmail.com" />
+        <CopyMailTo email="2018ugec030@nitjsr.ac.in" />
       </div>
       <p style={{ color: "white", marginBottom: "0px" }}>
         Made with <span style={{ color: "red" }}>❤</span> by{" "}
@@ -54,9 +50,9 @@ const Contact = () => {
           style={{ color: "white" }}
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/ankiiitraj"
+          href="https://github.com/sourav1319"
         >
-          ankiiitraj
+          sourav1319
         </a>
       </p>
     </div>
