@@ -3,7 +3,6 @@ import {
   SiGmail,
   SiLinkedin,
   SiGithub,
-  SiDevDotTo,
 } from "react-icons/si";
 import CopyMailTo from "react-copy-mailto";
 
