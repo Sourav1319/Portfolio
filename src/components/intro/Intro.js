@@ -5,10 +5,10 @@ import "./intro.css";
 const Intro = () => {
   const doin = [
     "Undergrad, 2022",
-    "IIIT Ranchi",
-    "Incoming Software Engineer",
+    "National Institute of Technology, Jamshedpur",
     "Competitive Programmer",
     "Open Source Developer"
+    
   ];
   const [idx, updateIdx] = useState(0);
 
@@ -28,7 +28,7 @@ const Intro = () => {
           <div className="intro-head">Hi, there! <span style={{color: "#fc6d26"}}>I'm</span></div>
           <div className="intro-name">Ankit Raj</div>
           <div className="intro-doin">{doin[idx]}</div>
-          <div className="intro-gh-follow"><GhFollowkBtn username={"ankiiitraj"} /></div>
+          <div className="intro-gh-follow"><GhFollowkBtn username={"sourav1319"} /></div>
         </div>
       </div>
     </>
