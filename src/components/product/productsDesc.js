@@ -3,7 +3,7 @@ export const products = [
     title: "Movie-fight",
     about:
       "A site where you can instantly compares your two movies, to see which one is better in what area ",
-    link: "https://dotodsa.netlify.app",
+    link: "https://agitated-bell-d3eb4b.netlify.app/",
     source: "https://github.com/Sourav1319/Movie-Fight",
     username: "sourav1319",
     repo: "Movie-Fight",
@@ -12,7 +12,7 @@ export const products = [
   {
     title: "Ecommerce Platform with CRUD functionality and authentication",
     about:
-      "No extra database is used, 95% of things is done from scratch using plan vanilla javascript. Users can browse and items to their shopping cart. Admins have their separate page where they will know what products they are selling on the site,All admin or user pages are protected through product grade authentication.",
+      "No extra database is used, 95% of things is done from scratch using plan vanilla javascript. Users can browse and add items to their shopping cart. Admins have their separate page where they will know what products they are selling on the site,All admin or user pages are protected through product grade authentication.",
     link: "https://thawing-escarpment-54673.herokuapp.com/",
     source: "https://github.com/Sourav1319/Ecommerce",
     username: "sourav1319",
