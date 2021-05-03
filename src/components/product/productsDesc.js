@@ -10,9 +10,9 @@ export const products = [
     colorCode: "rgb(255, 122, 0)",
   },
   {
-    title: "Ecommerce Platform with CRUD functionality and authentication",
+    title: "Ecommerce Platform with CRUD functionality and Production grade authentication System",
     about:
-      "Users can browse and add items to their shopping cart.Admins have their separate page where they will know what products they are selling on the site.Database Handling is done from scratch, no external applicaton is used. Built using Node.js and Bulma Css.Express-validator was used to handle validation.",
+      "Users can browse and add,remove or update items to their shopping cart while admins will have their own separate page where they will know what products they are selling on the site with CRUD funtionality.Database Handling is done from scratch, no external applicaton is used. Built using Node.js and Bulma Css Framework.Express-validator was used to handle validation.",
     link: "https://thawing-escarpment-54673.herokuapp.com/",
     source: "https://github.com/Sourav1319/Ecommerce",
     username: "sourav1319",
