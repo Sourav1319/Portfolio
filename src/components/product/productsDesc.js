@@ -2,7 +2,7 @@ export const products = [
   {
     title: "Movie-fight",
     about:
-      "A site where you can instantly compares your two movies, to see which one is better in what area ",
+      "A site where anyone can compare movies, and can get to know which one is better and in what area.",
     link: "https://agitated-bell-d3eb4b.netlify.app/",
     source: "https://github.com/Sourav1319/Movie-Fight",
     username: "sourav1319",
