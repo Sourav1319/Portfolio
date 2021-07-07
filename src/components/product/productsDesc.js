@@ -26,7 +26,7 @@ export const products = [
     link: "https://stormy-temple-11706.herokuapp.com/",
     source: "https://github.com/Sourav1319/Yelpcamp",
     username: "Sourav1319",
-    repo: "Yelpcamp",
+    repo: "Evermore",
     colorCode: "rgb(17, 187, 17)",
   },
   {
