@@ -19,7 +19,7 @@ export const products = [
     repo: "Qprint",
     colorCode: "rgb(255, 122, 0)",
   },
-    title: "Movie-fight",
+    title: "Movie-fights",
     about:
       "A site where anyone can compare any two movies, and can get to know which one is better and in what area.",
     link: "https://agitated-bell-d3eb4b.netlify.app/",
