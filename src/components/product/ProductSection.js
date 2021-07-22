@@ -13,7 +13,7 @@ const ProductSection = () => {
           fontSize: "xx-large",
         }}
       >
-        Open Sourced Products and Projects
+        Projects
       </div>
       <hr
         style={{
