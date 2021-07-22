@@ -33,6 +33,9 @@ const ProductSection = () => {
           <Product prod={products[1]} />
           <Product prod={products[2]} />
           <Product prod={products[3]} />
+          <Product prod={products[4]} />
+          <Product prod={products[5]} />
+
         </div>
       </div>
     </>
