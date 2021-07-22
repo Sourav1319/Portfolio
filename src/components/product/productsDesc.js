@@ -1,12 +1,12 @@
 export const products = [
   { 
-    title: "spyder-repo",
+    title: "Spyder-repo",
     about:
       "A site to store all of our interesting articles/links in one place, built only using javascript in node.js environment.",
     link: "https://fierce-depths-51574.herokuapp.com/signin",
     source: "https://github.com/Sourav1319/spyder_repo",
     username: "sourav1319",
-    repo: "Spyder-Repo",
+    repo: "spyder-Repo",
     colorCode: "rgb(255, 122, 0)",
   },
   { 
