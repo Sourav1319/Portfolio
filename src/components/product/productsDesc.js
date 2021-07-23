@@ -6,7 +6,7 @@ export const products = [
     link: "https://fierce-depths-51574.herokuapp.com/signin",
     source: "https://github.com/Sourav1319/spyder_repo",
     username: "sourav1319",
-    repo: "spyder-repo",
+    repo: "spyder_repo",
     colorCode: "rgb(255, 122, 0)",
   },
   { 
