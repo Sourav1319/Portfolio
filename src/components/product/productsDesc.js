@@ -31,8 +31,7 @@ export const products = [
   },
   {
     title: "Ecommerce Platform with CRUD functionality and Authentication system",
-    about:
-      "Users can browse and add,remove or update items to their shopping cart while admins will have their own separate page where they will know what products they are selling on the site with CRUD funtionality.Database Handling is done from scratch, no external applicaton is used. Built using Node.js and Bulma Css Framework.Express-validator is used to handle validation.",
+    about:"The site is designed to act as an online version of any departmental store, where the shop owner will be the admin and will have all the authentication privileges.This project was part of Javascript bootamp course on udemy by Stephen Grider",
     link: "https://thawing-escarpment-54673.herokuapp.com/",
     source: "https://github.com/Sourav1319/Ecommerce",
     username: "sourav1319",
@@ -42,7 +41,7 @@ export const products = [
   {
     title: "Evermore",
     about: 
-    "A Platform where students can either sell or buy book from their seniors/juniors in college. This project was created using Node.js, Express, MongoDB, and Bootstrap, Passport.js was used to handle authentication.",
+    "A Platform where students can either sell or buy book from their seniors/juniors in college. This project is actually a different version of the Yelpcamp project that i did on a Udemy course taught by Colt steele.It was created using Node.js, Express, MongoDB, Bootstrap and Passport.js.",
     link: "https://stormy-temple-11706.herokuapp.com/",
     source: "https://github.com/Sourav1319/Yelpcamp",
     username: "Sourav1319",
