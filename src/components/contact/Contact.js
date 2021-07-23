@@ -43,17 +43,6 @@ const Contact = () => {
         <SiGmail style={{ marginRight: "10px" }} />{" "}
         <CopyMailTo email="2018ugec030@nitjsr.ac.in" />
       </div>
-      <p style={{ color: "white", marginBottom: "0px" }}>
-        Made with <span style={{ color: "red" }}>❤</span> by{" "}
-        <a
-          style={{ color: "white" }}
-          target="_blank"
-          rel="noreferrer"
-          href="https://github.com/sourav1319"
-        >
-          sourav1319
-        </a>
-      </p>
     </div>
   );
 };
