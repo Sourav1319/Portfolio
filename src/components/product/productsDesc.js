@@ -2,7 +2,7 @@ export const products = [
   { 
     title: "Spyder-repo",
     about:
-      "A site to store all of our interesting articles/links in one place, built only using javascript in node.js environment.",
+      "A site to store all of our interesting articles/links in one place, built only using javascript in node.js environment(Site takes a bit of time to load please wait for a moment)",
     link: "https://fierce-depths-51574.herokuapp.com/signin",
     source: "https://github.com/Sourav1319/spyder_repo",
     username: "sourav1319",
@@ -12,7 +12,7 @@ export const products = [
   { 
     title: "Qprint",
     about:
-      "A site which will act as an interface between students and printer shop(admin), all the private userpages are protected through authentication.",
+      "A site which will act as an interface between students and printer shop(admin), all the private userpages are protected through authentication(Site takes a bit of time to load please wait for a moment)",
     link: "https://fast-falls-51751.herokuapp.com/",
     source: "https://github.com/Sourav1319/Qprint",
     username: "sourav1319",
